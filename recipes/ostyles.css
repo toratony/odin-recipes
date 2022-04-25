@@ -1,0 +1,37 @@
+.both{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.first{
+    background-color: black;
+    color: white;
+}
+.second{
+    background-color: yellow;
+}
+img{
+    width: 250px;
+    border: 5px solid rgba(223, 127, 103, 0.4038);
+    border-radius: 50%; 
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+    color: midnightblue;
+    margin: 20px;
+}
+section{
+    background-color: #fdebd4;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 5px solid rgba(223, 127, 103, 0.4038);
+    border-radius: 5%;
+}

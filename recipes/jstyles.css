@@ -1,6 +1,20 @@
+body {
+    background-color:bisque;
+    color: brown;
+
+}
 div {
-    background-color: red;
+    background-color: crimson;
     color: white;
     font-size: 32px;
     text-align: center;
+}
+h2{
+    border-color:rgb(41, 15, 66);
+    background-color:gainsboro;
+}
+h1{
+    text-align: center;
+    border-color: chocolate;
+    background-color: darkkhaki;
 }
