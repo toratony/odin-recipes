@@ -35,3 +35,22 @@ section{
     border: 5px solid rgba(223, 127, 103, 0.4038);
     border-radius: 5%;
 }
+.injected-text{
+    margin-bottom: -20px;
+    text-align: center;
+}
+.box{
+    border-style: solid;
+    border-color: rgb(161, 138, 94);
+    border-width: 20px;
+    text-align: center;
+}
+.brownbox{
+    background-color: rgb(216, 158, 117);
+    padding: 10px;
+}
+.greenbox{
+    background-color: green;
+    color:beige;
+    padding: 60px;
+}
